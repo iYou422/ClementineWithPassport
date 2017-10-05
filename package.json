@@ -1,5 +1,5 @@
 {
-  "name": "workspace",
+  "name": "clementine",
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
@@ -17,5 +17,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iYou422/ClementineWithPassport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iYou422/ClementineWithPassport/issues"
+  },
+  "homepage": "https://github.com/iYou422/ClementineWithPassport#readme",
   "description": ""
 }
